@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Filmes de Ação",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Lista de Filmes de Ação",
+        "url": "https://www.youtube.com/playlist?list=PLzLmtbAZJSF6BnAmxDo5HC-tDihLUUis9"
+      },
+      "videos": [
+        {
+          "titulo": "Mad Max - Estrada da Fúria | Trailer Legendado HD",
+          "url": "https://www.youtube.com/watch?v=NH5TpcVaqCQ"
+        },
+        {
+          "titulo": "Max Payne - Official® Trailer [HD]",
+          "url": "https://www.youtube.com/watch?v=GklHaGfncJI"
+        },
+        {
+          "titulo": "Valhalla 2020 trailer do filme em hd",
+          "url": "https://www.youtube.com/watch?v=ZwcviiYvorU"
+        },
+        {
+          "titulo": "I AM LEGEND 2 (2021) WILL SMITH - TEASER TRAILER CONCEPT LAST MAN ON EARTH",
+          "url": "https://www.youtube.com/watch?v=kzoD3ZEipZM"
+        },
+        {
+          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }
+      ]
+    },
+    {
+      "titulo": "Faroeste",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Faroeste Filmes ",
+        "url": "https://www.youtube.com/playlist?list=PL5EE704022B3FB440"
+      },
+      "videos": [
+        {
+          "titulo": "Django Vem Para Matar",
+          "url": "https://www.youtube.com/watch?v=yu7A7ymzzbk"
+        },
+        {
+          "titulo": "Procurado Vivo ou Morto",
+          "url": "https://www.youtube.com/watch?v=DZRvIonYyeE"
+        },
+        {
+          "titulo": "Hill Matador",
+          "url": "https://www.youtube.com/watch?v=nJc1eZKwfOc"
+        },
+        {
+          "titulo": "Atire Para Viver e Reze Pelos Mortos",
+          "url": "https://www.youtube.com/watch?v=5WsD99NoddI"
+        },
+        {
+          "titulo": "Dead Men Don't Make Shadows",
+          "url": "https://www.youtube.com/watch?v=bVPm7MkPNYw"
+        }
+      ]
+    },
+    {
+      "titulo": "Comédia Româtica",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Apenas Amigos",
+        "url": "https://www.youtube.com/watch?v=9nujW011Y-0"
+      },
+      "videos": [
+        {
+          "titulo": "O Prazer da Sua Companhia",
+          "url": "https://www.youtube.com/watch?v=bFEodFmuh08"
+        },
+        {
+          "titulo": "Votos de Amor",
+          "url": "https://www.youtube.com/watch?v=E0AZxMEJKEc"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Músicas Gospel",
+      "cor": "red",
+      "link_extra": {
+        "text": "100 musicas gospeis mais tocadas de 2020",
+        "url": "https://www.youtube.com/playlist?list=PLjwDi_dm6srlAU54JHsDwaMWb9jmTvysq"
+      },
+      "videos": [
+        {
+          "titulo": "Anderson Freire - AS MELHORES (músicas mais tocadas) atualizada",
+          "url": "https://www.youtube.com/watch?v=nhn4WG65yU0"
+        },
+        {
+          "titulo": "VOCÊ É UM ESPELHO - RARIDADE",
+          "url": "https://www.youtube.com/watch?v=69BTJ5P2lVU"
+        },
+        {
+          "titulo": "Preto no Branco - Ninguém Explica Deus (Ao Vivo) ft. Gabriela Rocha",
+          "url": "https://www.youtube.com/watch?v=LYsaKn8FRhc"
+        },
+        {
+          "titulo": "AMANDA WANESSA - Jó ( Voz e Piano ) #12",
+          "url": "https://www.youtube.com/watch?v=y5rwp9iOfR0"
+        },
+        {
+          "titulo": "Fernandinho - Todas as Coisas (DVD Uma Nova História)",
+          "url": "https://www.youtube.com/watch?v=HrdDc0no4Jw"
+        }
+      ]
+    },
+    {
+      "titulo": "Major e Dez Ano histórias engraçadas",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Canal do criador dos videos de Major e Dez Ano",
+        "url": "https://www.youtube.com/channel/UCunkeZWfEULXwYqAOPwDOlw"
+      },
+      "videos": [
+        {
+          "titulo": "MAJOR E DEIZANO - DIA DO TRABALHADOR",
+          "url": "https://www.youtube.com/watch?v=DxN08NPR0Rs"
+        },
+        {
+          "titulo": "MAJOR E DEIZANO - MEU PARCEIRO DUDU",
+          "url": "https://www.youtube.com/watch?v=JxBsxMVdZKU"
+        },
+        {
+          "titulo": "MAJOR E DEIZANO - O ENTERRO DO BEBO",
+          "url": "https://www.youtube.com/watch?v=KSTZ2k6y-aw"
+        },
+        {
+          "titulo": "MAJOR E DEIZANO - O BAR QUE NUNCA FECHA",
+          "url": "https://www.youtube.com/watch?v=aqg0ibHwCdE"
+        },
+        {
+          "titulo": "MAJOR E DEIZANO - COMENTANDO OS BÊBADOS (parte 1)",
+          "url": "https://www.youtube.com/watch?v=KkDSwKPos1c&t=256s"
+        }
+      ]
+    }
+  ]
+}
